@@ -1,0 +1,29 @@
+
+- title: Digital Image Processing
+  # url: "/courses/dip/"
+  code: "CS 491/591-006<br>(CS 422/522)"
+  role: "Spring 2026"
+  materials:
+    - name: "This course introduces the foundations and techniques for 2D and 3D imaging. From classical Fourier analysis to modern deep-learning models, we explore a broad spectrum of image-based technologies, including segmentation, recognition, volumetric capture, depth estimation, clustering, convolutional neural networks, and generative models."
+      syllabus: "/courses/dip-spring2026/"
+      # showcase: "/showcase/dip-spri/"
+      # slides: ""
+      # video: ""
+      # notes: ""
+
+- title: Introduction to Computer Graphics
+  # url: "/courses/icg/"
+  code: "CS 412/512"
+  role: "Fall 2025"
+  materials:
+    - name: "This course will cover the fundamentals of 2D and 3D computer graphics, such as curves, 3D modeling, animation, and rendering. At the end of the semester, the students will be able to understand the core concepts of computer graphics and build their own real-time graphics pipeline that runs in a web browser."
+      syllabus: "/courses/icg-fall2025/"
+      showcase: "/showcases/icg-fall2025/"
+      # slides: ""
+      # video: ""
+      # notes: ""
+
+    # - name: ""
+    #   slides: ""
+    #   video: ""
+    #   notes: ""
