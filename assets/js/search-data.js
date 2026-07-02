@@ -7,21 +7,21 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/~zhuwang/";
     },
   },{id: "nav-teaching",
           title: "teaching",
           description: "Courses Taught at UNM CS",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/~zhuwang/teaching/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/~zhuwang/publications/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -31,7 +31,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/~zhuwang/blog/2025/plotly/";
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -42,7 +42,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/photo-gallery/";
+            window.location.href = "/~zhuwang/blog/2024/photo-gallery/";
           
         },
       },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
@@ -64,7 +64,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/tabs/";
+            window.location.href = "/~zhuwang/blog/2024/tabs/";
           
         },
       },{id: "post-a-post-with-typograms",
@@ -75,7 +75,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/typograms/";
+            window.location.href = "/~zhuwang/blog/2024/typograms/";
           
         },
       },{id: "post-a-post-that-can-be-cited",
@@ -86,7 +86,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/post-citation/";
+            window.location.href = "/~zhuwang/blog/2024/post-citation/";
           
         },
       },{id: "post-a-post-with-pseudo-code",
@@ -97,7 +97,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/pseudocode/";
+            window.location.href = "/~zhuwang/blog/2024/pseudocode/";
           
         },
       },{id: "post-a-post-with-code-diff",
@@ -108,7 +108,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/code-diff/";
+            window.location.href = "/~zhuwang/blog/2024/code-diff/";
           
         },
       },{id: "post-a-post-with-advanced-image-components",
@@ -119,7 +119,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/advanced-images/";
+            window.location.href = "/~zhuwang/blog/2024/advanced-images/";
           
         },
       },{id: "post-a-post-with-vega-lite",
@@ -130,7 +130,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/vega-lite/";
+            window.location.href = "/~zhuwang/blog/2024/vega-lite/";
           
         },
       },{id: "post-a-post-with-geojson",
@@ -141,7 +141,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/geojson-map/";
+            window.location.href = "/~zhuwang/blog/2024/geojson-map/";
           
         },
       },{id: "post-a-post-with-echarts",
@@ -152,7 +152,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/echarts/";
+            window.location.href = "/~zhuwang/blog/2024/echarts/";
           
         },
       },{id: "post-a-post-with-chart-js",
@@ -163,7 +163,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/chartjs/";
+            window.location.href = "/~zhuwang/blog/2024/chartjs/";
           
         },
       },{id: "post-a-post-with-tikzjax",
@@ -174,7 +174,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/tikzjax/";
+            window.location.href = "/~zhuwang/blog/2023/tikzjax/";
           
         },
       },{id: "post-a-post-with-bibliography",
@@ -185,7 +185,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/post-bibliography/";
+            window.location.href = "/~zhuwang/blog/2023/post-bibliography/";
           
         },
       },{id: "post-a-post-with-jupyter-notebook",
@@ -196,7 +196,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/jupyter-notebook/";
+            window.location.href = "/~zhuwang/blog/2023/jupyter-notebook/";
           
         },
       },{id: "post-a-post-with-custom-blockquotes",
@@ -207,7 +207,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/custom-blockquotes/";
+            window.location.href = "/~zhuwang/blog/2023/custom-blockquotes/";
           
         },
       },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -218,7 +218,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/sidebar-table-of-contents/";
+            window.location.href = "/~zhuwang/blog/2023/sidebar-table-of-contents/";
           
         },
       },{id: "post-a-post-with-audios",
@@ -229,7 +229,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/audios/";
+            window.location.href = "/~zhuwang/blog/2023/audios/";
           
         },
       },{id: "post-a-post-with-videos",
@@ -240,7 +240,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/videos/";
+            window.location.href = "/~zhuwang/blog/2023/videos/";
           
         },
       },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -251,7 +251,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/tables/";
+            window.location.href = "/~zhuwang/blog/2023/tables/";
           
         },
       },{id: "post-a-post-with-table-of-contents",
@@ -262,7 +262,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/table-of-contents/";
+            window.location.href = "/~zhuwang/blog/2023/table-of-contents/";
           
         },
       },{id: "post-a-post-with-giscus-comments",
@@ -273,7 +273,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/giscus-comments/";
+            window.location.href = "/~zhuwang/blog/2022/giscus-comments/";
           
         },
       },{id: "post-displaying-external-posts-on-your-al-folio-blog",
@@ -295,7 +295,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/example_pdf.pdf";
+            window.location.href = "/~zhuwang/assets/pdf/example_pdf.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -306,7 +306,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/diagrams/";
+            window.location.href = "/~zhuwang/blog/2021/diagrams/";
           
         },
       },{id: "post-a-distill-style-blog-post",
@@ -317,7 +317,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/distill/";
+            window.location.href = "/~zhuwang/blog/2021/distill/";
           
         },
       },{id: "post-a-post-with-twitter",
@@ -328,7 +328,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/twitter/";
+            window.location.href = "/~zhuwang/blog/2020/twitter/";
           
         },
       },{id: "post-a-post-with-disqus-comments",
@@ -339,7 +339,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/disqus-comments/";
+            window.location.href = "/~zhuwang/blog/2015/disqus-comments/";
           
         },
       },{id: "post-a-post-with-math",
@@ -350,7 +350,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/math/";
+            window.location.href = "/~zhuwang/blog/2015/math/";
           
         },
       },{id: "post-a-post-with-code",
@@ -361,7 +361,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/code/";
+            window.location.href = "/~zhuwang/blog/2015/code/";
           
         },
       },{id: "post-a-post-with-images",
@@ -372,7 +372,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/images/";
+            window.location.href = "/~zhuwang/blog/2015/images/";
           
         },
       },{id: "post-a-post-with-formatting-and-links",
@@ -383,24 +383,29 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/formatting-and-links/";
+            window.location.href = "/~zhuwang/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/~zhuwang/books/the_godfather/";
             },},{id: "courses-cs-491-591-006-cs-422-522-digital-image-processing",
           title: 'CS 491/591-006 (CS 422/522)Digital Image Processing',
           description: "",
           section: "Courses",handler: () => {
-              window.location.href = "/courses/dip-spring2026/";
+              window.location.href = "/~zhuwang/courses/dip-spring2026/";
             },},{id: "courses-cs-412-512-introduction-to-computer-graphics",
           title: 'CS 412/512 Introduction to Computer Graphics',
           description: "",
           section: "Courses",handler: () => {
-              window.location.href = "/courses/icg-fall2025/";
+              window.location.href = "/~zhuwang/courses/icg-fall2025/";
+            },},{id: "courses-cs-412-512-introduction-to-computer-graphics",
+          title: 'CS 412/512 Introduction to Computer Graphics',
+          description: "",
+          section: "Courses",handler: () => {
+              window.location.href = "/~zhuwang/courses/icg-fall2026/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -408,7 +413,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/~zhuwang/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -416,52 +421,52 @@ ninja.data = [{
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/~zhuwang/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/~zhuwang/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/~zhuwang/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/~zhuwang/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/~zhuwang/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/~zhuwang/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/~zhuwang/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/~zhuwang/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/~zhuwang/projects/9_project/";
             },},{id: "showcases-icg-fall2025",
           title: 'Icg Fall2025',
           description: "",
           section: "Showcases",handler: () => {
-              window.location.href = "/showcases/icg-fall2025/";
+              window.location.href = "/~zhuwang/showcases/icg-fall2025/";
             },},{
         id: 'social-scholar',
         title: 'Google Scholar',

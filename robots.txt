@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://unm-mirai.github.io/sitemap.xml
+Sitemap: https://cs.unm.edu/~zhuwang/sitemap.xml
