@@ -401,6 +401,11 @@ ninja.data = [{
           description: "",
           section: "Courses",handler: () => {
               window.location.href = "/~zhuwang/courses/icg-fall2025/";
+            },},{id: "courses-cs-412-512-introduction-to-computer-graphics",
+          title: 'CS 412/512 Introduction to Computer Graphics',
+          description: "",
+          section: "Courses",handler: () => {
+              window.location.href = "/~zhuwang/courses/icg-fall2026/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",

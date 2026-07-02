@@ -8,8 +8,9 @@ profile:
   more_info: >
     <p>Office 3130<br>
     <a href="https://maps.app.goo.gl/WsUDtf5EY2KX6HrdA" target="_blank">Farris Engineering Center</a><br>
-    Office Hour (Spring 2026):<br>
-    Tue/Thu, 2:00 – 3:00 pm<br><br>
+    Office Hour (Fall 2026):<br>
+    Tue 3:30 – 4:30 pm<br> 
+    Thu 1:00 - 2:00 pm<br><br>
     Mailing Address:<br>
       MSC01-1130<br>
       1 University of New Mexico<br>
