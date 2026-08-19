@@ -19,7 +19,10 @@ related_publications: false
 | **Website** | [cs.unm.edu/\~zhuwang](https://cs.unm.edu/~zhuwang/) |
 | **Time** | Tue & Thu, 2:00 - 3:15 pm |
 | **Location** | TBD |
-| **Office Hours** | Tue 2:00 - 3:15 pm & Thu 1:00 - 2:00 pm, FEC 3130 |
+| **Instructor Office Hours** | Thu 1:00 - 2:00 pm, FEC 3130 |
+| **TA** | **Charles Omaoeng** |
+| **Email** | comaoeng [at] unm [dot] edu |
+| **TA Office Hours** | Mon 10:00 - 11:00 am, FEC 2000 |
 
 -----
 
