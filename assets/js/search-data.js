@@ -406,6 +406,11 @@ ninja.data = [{
           description: "",
           section: "Courses",handler: () => {
               window.location.href = "/courses/icg-fall2026/";
+            },},{id: "courses-cs-491-591-005-special-topics-spatial-computing",
+          title: 'CS 491/591-005 Special Topics: Spatial Computing',
+          description: "",
+          section: "Courses",handler: () => {
+              window.location.href = "/courses/sc-spring2027/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
